@@ -2,9 +2,9 @@
 
 ## Authors
 
-* 
+* Tong Zhou - mgv8dh
 * Celine Zhou - qmj3vs
-* Author 3 - netID
+
 
 
 ## High-Level Overview
